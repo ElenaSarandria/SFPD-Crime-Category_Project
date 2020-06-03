@@ -4,9 +4,9 @@ o	What story does Crime in San Francisco over (time period tbd) tell us?
 
 •	Data Set: 
 o	Google Cloud BigQuery Public Data
-	Dataset ID: bigquery-public-data:san_francisco_sfpd_incidents
-	Created: Apr 11, 2017, 9:04:03 AM 
-	Data location: US
+Dataset ID: bigquery-public-data:san_francisco_sfpd_incidents
+Created: Apr 11, 2017, 9:04:03 AM 
+Data location: US
 
 •	Inspiration: 
 o	Curiosity, San Francisco, Crime
